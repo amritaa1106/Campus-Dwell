@@ -87,7 +87,8 @@ http://localhost:8080/HostelBookingSystem/
 /sql                   (All relevant SQL files)
 
 8. Screenshots
-<img width="1903" height="1048" alt="Screenshot 2025-10-09 004116" src="https://github.com/user-attachments/assets/01f52bcd-36b1-4634-bb4b-ab3449c21d10" />
+
+<img width="1914" height="998" alt="Screenshot 2025-10-09 004256" src="https://github.com/user-attachments/assets/19de81b1-7e50-4d7d-9593-03ceff0f5d7c" />
 
 9. Customization
 Change logo and gallery images in /images.
